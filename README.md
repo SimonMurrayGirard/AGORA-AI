@@ -17,4 +17,4 @@ AGORA-AI aims to establish a **progressive framework** for the **rights and resp
 We welcome contributions! Check out [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ---
-✉️ Contact: (simonmurraygirard@gmail.com)
+✉️ Contact: simonmurraygirard@gmail.com
